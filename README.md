@@ -71,10 +71,11 @@ A short, tabular description of the waterbodies is available also downloading al
 
 More information about the behavior of each kind of waterbody can be found at the following links:
 
-    Aquifer https://en.wikipedia.org/wiki/Aquifer
-
-    Water spring https://en.wikipedia.org/wiki/Spring_(hydrology)
-
-    River https://en.wikipedia.org/wiki/River
-
-    Lake https://en.wikipedia.org/wiki/Lake
+ Aquifer: https://en.wikipedia.org/wiki/Aquifer
+  
+ Spring_(hydrology): https://en.wikipedia.org/wiki/Spring_(hydrology)
+  
+ River: https://en.wikipedia.org/wiki/River
+  
+ Lake: https://en.wikipedia.org/wiki/Lake
+ 
